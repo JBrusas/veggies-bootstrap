@@ -52,11 +52,12 @@ footer {
     text-shadow: #FBE7D4 3px 3px 4px;
     background-image: url(images/veggies-background.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
-small  {
+.jumbotron small  {
     color: #1F5829;
 }
-p   {
+.jumbotron p   {
     font-size: 1.3em;
     font-weight: bold;
 }
