@@ -9,7 +9,7 @@ body {
     padding-top: 50px;
     /* Set margin bottom allow for footer height */
     margin-bottom: 50px;
-    background-image:url(images/veggies-background.jpg);
+    background-image:url(images/tartan.png);
     background-color: #A2C0A7;
 }
 
@@ -50,7 +50,8 @@ footer {
     color: black;
     text-align: center;
     text-shadow: #FBE7D4 3px 3px 4px;
-    background-image: url(images/veggies-background.jpg)
+    background-image: url(images/veggies-background.jpg);
+    background-repeat: no-repeat;
 }
 small  {
     color: #1F5829;
